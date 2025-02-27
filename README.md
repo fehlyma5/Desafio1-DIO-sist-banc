@@ -12,6 +12,9 @@
 </p>
 
 - `Funcionalidade 2`: Após o usuario ter valor em conta ele consegue sacar até 3x no máximo e sempre limites inferiores a R$500.
-  
+<p align="center">
+<img loading="lazy" src="https://github.com/fehlyma5/Desafio1-DIO-sist-banc/blob/main/Captura%20de%20tela%202025-02-27%20001432.jpg"/>
+</p>
+
   
 - `Funcionalidade 3`: O extrato mostra o movimento que o usuario fez na conta.
