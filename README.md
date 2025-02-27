@@ -1,0 +1,14 @@
+<h1 align="center">"Sistema Bancário Básico</h1>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+# :hammer: Funcionalidades do projeto
+- `Funcionalidade 1`: Deposito (como todo banco movimento valores a partir do que é colocado em conta, aqui o usuario insere o valor que ele irá depositar.)
+
+- `Funcionalidade 2`: Após o usuario ter valor em conta ele consegue sacar até 3x no máximo e sempre limites inferiores a R$500.
+  
+  
+- `Funcionalidade 3`: O extrato mostra o movimento que o usuario fez na conta.
